@@ -1,0 +1,66 @@
+{
+  "sem4": {
+    "economics": {
+      "whatsapp": "https://chat.whatsapp.com/your-group-link",
+      
+      "major": {
+        "MJC-3": {
+          "title": "Introductory Macroeconomics",
+          "syllabus": "https://docs.google.com/document/d/example",
+          "notes": "https://docs.google.com/document/d/notes-link",
+          "pyq": "https://drive.google.com/drive/folders/pyq-link",
+          "quiz": "",
+          "slides": "https://docs.google.com/presentation/d/slides-link"
+        },
+        "MJC-4": {
+          "title": "Mathematical Methods for Economics",
+          "syllabus": "https://docs.google.com/document/d/example",
+          "notes": "",
+          "pyq": "",
+          "quiz": "",
+          "slides": ""
+        },
+         "MJC-5": {
+          "title": "Public Finance",
+          "syllabus": "https://docs.google.com/document/d/example",
+          "notes": "https://docs.google.com/document/d/notes-link",
+          "pyq": "",
+          "quiz": "",
+          "slides": ""
+        }
+      },
+
+      "aec": {
+        "AEC-4": {
+          "title": "Environmental Studies",
+          "syllabus": "https://docs.google.com/document/d/syllabus-link",
+          "notes": "",
+          "pyq": "",
+          "quiz": "",
+          "slides": ""
+        }
+      },
+
+      "minor": {
+        "history": {
+          "code": "MIC-4",
+          "title": "History of Ancient India",
+          "syllabus": "https://docs.google.com/document/d/link",
+          "notes": "",
+          "pyq": "",
+          "quiz": "",
+          "slides": ""
+        },
+        "polsci": {
+           "code": "MIC-4",
+           "title": "Indian Government and Politics",
+           "syllabus": "https://docs.google.com/document/d/link",
+           "notes": "",
+           "pyq": "",
+           "quiz": "",
+           "slides": ""
+        }
+      }
+    }
+  }
+}

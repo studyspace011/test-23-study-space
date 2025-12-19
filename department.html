@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Department</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <a href="index.html" class="back-btn">← Back</a>
+
+    <div id="dept-select-view" class="hidden">
+        <h1>Select Department</h1>
+        <p class="subtitle">Choose your honors subject</p>
+        <div class="grid">
+            <a href="#" id="dept-eco" class="card active">
+                <span class="card-title">Economics</span>
+            </a>
+            <div class="card disabled"><span class="card-title">History</span></div>
+            <div class="card disabled"><span class="card-title">Political Science</span></div>
+        </div>
+    </div>
+
+    <div id="dept-hub-view" class="hidden">
+        <h1 id="dept-title">Department</h1>
+        
+        <h3 class="section-title">Major Papers</h3>
+        <div id="major-list" class="grid"></div>
+
+        <h3 class="section-title">AEC</h3>
+        <div id="aec-list" class="grid"></div>
+
+        <h3 class="section-title">Minor Selection</h3>
+        <div id="minor-list" class="grid"></div>
+
+        <div style="margin-top: 30px;">
+            <a id="wa-link" href="#" class="card active" style="border-color: #25D366; color: #25D366;">
+                <span class="card-title">Join WhatsApp Group</span>
+            </a>
+        </div>
+    </div>
+
+    <script src="assets/js/app.js"></script>
+    <script>initDepartment();</script>
+</body>
+</html>
